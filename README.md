@@ -7,7 +7,7 @@ My main focus areas are:
 - 🧠 **Domain-Driven Design (DDD)**
 - ⚙️ **Microservices & Cloud Architecture**
 - 🕸️ **Distributed Systems**
-- 🐍 **Python** & 🟨 **NodeJs**
+- 🐍 **Python & ⚡ Node.js**
 
 ---
 

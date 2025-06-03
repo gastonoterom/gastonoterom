@@ -1,17 +1,17 @@
-# 👋 Hi there, I'm Gastón!
+# 👋 Hi there
 
-I'm a **Senior Software Engineer** who specializes in building **backend systems** using **distributed architectures**, and **microservices**. 
+I'm Gastón, a **Senior Software Engineer** who specializes in building **backend systems** using **distributed architectures**, and **microservices**. 
 
 My main focus areas are:
 
-- 🧠 **Domain-Driven Design (DDD)**
-- ⚙️ **Microservices & Cloud Architecture**
+- 🏗️ **Domain-Driven Design (DDD)**
+- ☁️ **Microservices & Cloud Architecture**
 - 🕸️ **Distributed Systems**
 - 🐍 **Python & ⚡ Node.js**
 
 ---
 
-## 📬 Get In Touch
+## 📡 Contact
 
 - LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
 - Blog: [gastonotero.com](https://gastonotero.com)

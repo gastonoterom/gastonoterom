@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Gastón!
 
 I'm a **Senior Software Engineer** who specializes in building **backend systems** using **distributed architectures**, and **microservices**. 
+
 My main focus areas are:
 
 - 🧠 **Domain-Driven Design (DDD)**

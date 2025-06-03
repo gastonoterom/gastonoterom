@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gastón!
 
-<!--
-**gastonoterom/gastonoterom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** who specializes in building **backend systems** using **distributed architectures**, and **microservices**. 
+My main focus areas are:
 
-Here are some ideas to get you started:
+- 🧠 **Domain-Driven Design (DDD)**
+- ⚙️ **Microservices & Cloud Architecture**
+- 🕸️ **Distributed Systems**
+- 🐍 **Python** & 🟨 **NodeJs**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Get In Touch
+
+- LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
+- Blog: [gastonotero.com](https://gastonotero.com)
+- Email: `mail@gastonotero.com`

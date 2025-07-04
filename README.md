@@ -14,5 +14,5 @@ My main focus areas are:
 ## 📡 Contact
 
 - LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
-- Blog: [gastonotero.com](https://gastonotero.com)
+- Blog: [gastonotero.com/blog](https://gastonotero.com/blog)
 - Email: `mail@gastonotero.com`

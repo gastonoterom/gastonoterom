@@ -17,4 +17,4 @@ My main focus areas are:
 - Blog: [gastonotero.com/blog](https://gastonotero.com/blog)
 - Email: `mail@gastonotero.com`
 
-If you are interested in engineering resources recommendations, you can check out my [Good Reads](https://www.goodreads.com/user/show/184517559-gaston-otero) account or my own [personal library](https://github.com/gastonoterom/library-of-babel).
+If you are interested in engineering resources recommendations, check out my [goodreads account](https://www.goodreads.com/user/show/184517559-gaston-otero) or my own [personal library](https://github.com/gastonoterom/library-of-babel).

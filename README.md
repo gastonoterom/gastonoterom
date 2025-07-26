@@ -16,3 +16,5 @@ My main focus areas are:
 - LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
 - Blog: [gastonotero.com/blog](https://gastonotero.com/blog)
 - Email: `mail@gastonotero.com`
+
+If you are interested in software engineering book recommendations, you can check out my [Good Reads](https://www.goodreads.com/user/show/184517559-gaston-otero) account

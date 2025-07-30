@@ -11,7 +11,7 @@ My main focus areas are:
 
 ---
 
-## 📡 Contact
+## 📡 More About Me
 
 - LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
 - Blog: [gastonotero.com/blog](https://gastonotero.com/blog)

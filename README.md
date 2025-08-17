@@ -15,7 +15,7 @@ My main focus areas are:
 
 - LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
 - Blog: [gastonotero.com/blog](https://gastonotero.com/blog)
+- Youtube: [youtube.com/@gastonoterocode](https://www.youtube.com/@gastonoterocode)
 - Email: `mail@gastonotero.com`
-- Youtube: [youtube.com/@gastonoterocode] (https://www.youtube.com/@gastonoterocode)
 
 If you are interested in engineering resources recommendations, check out my [goodreads account](https://www.goodreads.com/user/show/184517559-gaston-otero) or my own [personal library](https://github.com/gastonoterom/library-of-babel).

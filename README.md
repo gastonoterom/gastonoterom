@@ -7,7 +7,7 @@ My main focus areas are:
 - 🏗️ **Domain-Driven Design (DDD)**
 - ☁️ **Microservices & Cloud Architecture**
 - 🕸️ **Distributed Systems**
-- 🐍 **Python & ⚡ TypeScript**
+- 🐍 **Python, ⚡ TypeScript, & 🦀 Rust**
 
 ---
 
@@ -15,6 +15,7 @@ My main focus areas are:
 
 - LinkedIn: [linkedin.com/in/gaston-otero](https://www.linkedin.com/in/gaston-otero/)
 - Blog: [gastonotero.com/blog](https://gastonotero.com/blog)
+- Projects: [gastonotero.com/projects](https://www.gastonotero.com/projects)
 - Youtube: [youtube.com/@gastonoterocode](https://www.youtube.com/@gastonoterocode)
 - Email: `mail@gastonotero.com`
 

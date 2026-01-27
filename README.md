@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Gastón, a **Senior Software Engineer** who specializes in **building systems** using **distributed architectures**, and **microservices**. 
+I'm Gastón, a **Senior Software Engineer** who specializes in **building systems** using **functional programming**, **distributed architectures**, and **microservices**. 
 
 My main focus areas are:
 

@@ -1,13 +1,6 @@
 # 👋 Hi there
 
-I'm Gastón, a **Software Engineer** who specializes in **building systems** using **functional programming**, **distributed architectures**, and **microservices**. 
-
-My main focus areas are:
-
-- 🏗️ **Domain-Driven Design (DDD)**
-- ☁️ **Microservices & Cloud Architecture**
-- 🕸️ **Distributed Systems**
-- **λ** **Functional Programming**
+I'm Gastón, a **Software Engineer** who specializes in **building systems** using **λ** **functional programming**, 🕸️ **distributed architectures**, 🏗️ **Domain-Driven Design (DDD)** and ☁️ **microservices**. 
 
 ---
 

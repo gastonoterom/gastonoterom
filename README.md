@@ -1,13 +1,13 @@
 # 👋 Hi there
 
-I'm Gastón, a **Senior Software Engineer** who specializes in **building systems** using **functional programming**, **distributed architectures**, and **microservices**. 
+I'm Gastón, a **Software Engineer** who specializes in **building systems** using **functional programming**, **distributed architectures**, and **microservices**. 
 
 My main focus areas are:
 
 - 🏗️ **Domain-Driven Design (DDD)**
 - ☁️ **Microservices & Cloud Architecture**
 - 🕸️ **Distributed Systems**
-- 🐍 **Python, ⚡ TypeScript, & 🦀 Rust**
+- **λ** **Functional Programming**
 
 ---
 

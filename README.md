@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Gastón, a **Software Engineer** who specializes in **building systems** using **λ** **Functional Programming**, 🕸️ **Distributed Systems**, 🏗️ **Domain-Driven Design (DDD)** and ☁️ **Microservices**. 
+I'm Gastón, a **Software Engineer** who specializes in **solving complex problems** using **λ** **Functional Programming**, 🕸️ **Distributed Systems**, 🏗️ **Domain-Driven Design (DDD)** and ☁️ **Microservices**. 
 
 ---
 
